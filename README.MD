@@ -512,3 +512,5 @@ Este projeto contém uma versão **propositalmente problemática** de uma págin
 **💡 Dica:** Teste sua solução com um leitor de tela e navegação apenas por teclado. Se funcionar bem para esses casos, provavelmente está acessível para todos!
 
 **🎨 Nota:** Mantenha todos os arquivos CSS e JavaScript inalterados. O foco é apenas na correção do HTML para melhorar acessibilidade e semântica.
+#   U X - D e s i g n  
+ 
